@@ -55,12 +55,12 @@
     <section id="intro" style="background: url(front/img/home.webp) center center no-repeat; background-size: cover;" class="intro-section pb-2">
       <div class="container text-center">
         <div data-animate="fadeInDown" class="logo"><img src="{{asset('front/img/logo-big.webp')}}" alt="logo" width="160"></div>
-        <h1 data-animate="fadeInDown" class="text-shadow mb-5">Hello, my beloved and respected client,</h1>
-        <p data-animate="slideInUp" class="h3 text-shadow text-400">I ame here to make beautiful, insightful, 100% secure, efficiant and SEO friendly websites for <strong>YOU</strong></p>
+        <h1 data-animate="fadeInDown" class="text-shadow mb-5">Hello, I am Sachin!</h1>
+        <p data-animate="slideInUp" class="h3 text-shadow text-400">I am here to build beautiful, secure, performant and SEO friendly websites for <strong>YOU</strong></p>
       </div>
     </section>
     <!-- About-->
-    <section id="about" class="about-section">
+    <section id="about" class="about-section">  
       <div class="container">
         <header class="text-center">
           <h2 data-animate="fadeInDown" class="title">A little about me</h2>
@@ -68,8 +68,8 @@
         <div class="row">
           <div data-animate="fadeInUp" class="col-lg-6">
             <p>I am Sachin Pandey, a Junior year B.Tech (CS&E) student from BBD University, Lucknow. 
-              <br><br>Professionally, full stack web developer and like tinkering with datasets to reveal the patterns they're hiding, which can then be used to optimize a problem. 
-              <br><br>I love modelling the real world so that I can reduce it into a virtual frame with the power and flexibility of code, and build solutions that are performant, scalable, and maintainable. 
+              <br><br>Professionally, I'm a full stack web developer, but I also like tinkering with datasets to reveal the patterns they're hiding, which can then be used to optimize a problem. 
+              <br><br>I love modelling the real world so that I can reduce it into a virtual frame with the power and flexibility of code, and build solutions that are efficient, scalable, and maintainable. 
               <br><br>I try staying at the forefront of my field and build applications that are relevant to the specifications and follow the latest practices.</p>
           </div>
           <div data-animate="fadeInUp" class="col-lg-6" ><img src="{{asset('front/img/about.webp')}}" alt="This is your Sachin" class="image rounded-circle img-fluid"></div>
@@ -93,7 +93,7 @@
                             <h4>Oct 2019 - Nov 2020</h4>
                             <h4 class="subheading">The Astroverse</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">It was a science magazine company, started by me and 2 other friends of mine. I was in the role of cheif technology office. I single-handidly developed the website and did other technical works. But due to lack of resources and time, we had to eventually shut it down.</p></div>
+                        <div class="timeline-body"><p class="text-muted">It was a science magazine company, started by me and 2 other friends of mine. I was in the chief technology officer. I single-handedly developed the website and did other technical works. But due to the lack of resources and time, we had to eventually shut it down.</p></div>
                     </div>
                 </li>
 
@@ -104,7 +104,7 @@
                             <h4>Feb 2021 - Apr 2021</h4>
                             <h4 class="subheading">Infinoscope</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">It was again a science magazine company. I worked here as a full stack web developer intern. Again here, I single-handidly developed the entire website, but it was 100x better than previous, as I'd constantly evolved myself. My internship period ended in Apr 2021.</p></div>
+                        <div class="timeline-body"><p class="text-muted">It was again a science magazine company. I worked here as a full stack web developer intern. Here too, I built their website solo, as a replacement to their existing website, leading to significant improvements across vital metrics. My internship ended in Apr 2021.</p></div>
                     </div>
                 </li>
 
@@ -115,7 +115,7 @@
                             <h4>May 2021 - Present</h4>
                             <h4 class="subheading">Abyom</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Abyom is an Indian rocket start-up. I am currently working here as a web develoer intern. This time I have an awesome team to work with, which is helping me to gain experience of working in team.</p></div>
+                        <div class="timeline-body"><p class="text-muted">Abyom is an Indian rocket start-up. I am currently working here as a web develoer intern. I'm working with an amazing team here, who provide a lot of oppurtunities to learn. It has also taught me to collaborate better with others.</p></div>
                     </div>
                 </li>
 
@@ -145,24 +145,24 @@
           <div data-animate="fadeInUp" class="col-lg-4">
             <div class="icon"><i class="fa fa-laptop"></i></div>
             <h3 class="heading mb-3 text-400">Full stack Web development</h3>
-            <p class="text-left description">I build beautiful, affordable, user-friendly, insightful, 100% secure, efficiant and SEO friendly websites. 
-              <br><br>I have 3+ year of experince in web development and knowledge of tons of programming languages and framework. I shall create entire front-end, back-end and database.</p>
+            <p class="text-left description">I build beautiful websites with intuitive design elements which are extremely user-friendly, while simultaneously being extremely secure, efficient and Search Engine Optimized.
+              <br><br>I have 3+ year of experince in web development and knowledge of tons of programming languages and framework. I can build the entire front-end, back-end and database for your application.</p>
           </div>
           <div data-animate="fadeInUp" class="col-lg-4">
             <div class="icon"><i class="fa fa-code"></i></div>
             <h3 class="heading mb-3 text-400">Pythoneer</h3>
-            <p class="text-left description">I know a bunch of programming languages like C, C++, Java, PHP etc. but I always liked <b>Python</b> most. It is my favourite programming language. It is easy, take relatively less time, secure and can be used to write or interface with a multitude of application. For these reasons I've been actively developing using Python since 2019.</p>
+            <p class="text-left description">I know a bunch of programming languages like C, C++, Java, PHP etc. but I always liked <b>Python</b> the most. It is my favourite programming language. It is easy, takes relatively less time, secure and can be used to write or interface with a multitude of applications. For these reasons I've been actively developing with Python since 2019.</p>
           </div>
           <div data-animate="fadeInUp" class="col-lg-4">
             <div class="icon"><i class="fa fa-tachometer"></i></div>
             <h3 class="heading mb-3 text-400">Data Science/Data Vizualisation</h3>
-            <p class="text-left description">I won't lie, I like data science, but currently I don't have much knowledge and experience in this field. Although, I am continuously learning, but still I am just a beginner.</p>
+            <p class="text-left description">I won't lie, I like data science, but currently I don't have much knowledge and experience in this field. Although I am continuously learning, I still feel like I am just a beginner here.</p>
           </div>
         </div>
         <hr data-animate="fadeInUp">
         <div data-animate="fadeInUp" class="text-center">
           <p class="lead">Would you like to know more or just discuss something?</p>
-          <p><a href="#contact" class="btn btn-outline-light link-scroll">Contact me</a></p>
+          <p><a href="#contact" class="btn btn-outline-light link-scroll">Contact Me</a></p>
         </div>
       </div>
     </section>
@@ -177,7 +177,7 @@
         <div class="col-sm-12">
           <div class="mb-5 text-center">
             <h2 data-animate="fadeInUp" class="title">My work</h2>
-            <p data-animate="fadeInUp" class="lead">I have worked on dozens of projects so I have picked only the latest for you.</p>
+            <p data-animate="fadeInUp" class="lead">I have worked on a multitude of <a href="https://github.com/sachinpandeyatd">projects</a>, but I'm only gonna showcase a couple of my the lates ones here.</p>
           </div>
           <!--<ul id="filter" data-animate="fadeInUp">
             <li class="active"><a href="#" data-filter="all">All</a></li>
@@ -205,7 +205,7 @@
                     <div class="overlay">
                       <div class="inner">
                         <h3 class="h4 reference-title">The Astroverse</h3>
-                        <p>Short project description goes here...</p>
+                        <p>A PHP powered fully functional website for a Space Magazine</p>
                       </div>
                     </div></a>
                   <div data-images="{{asset('front/img/portfolio/portfolio-01.webp')}},{{asset('front/img/portfolio/portfolio-01.webp')}},{{asset('front/img/main-slider3.jpg')}}" class="sr-only reference-description">
@@ -228,7 +228,7 @@
                     <div class="overlay">
                       <div class="inner">
                         <h3 class="h4 reference-title">Infinoscope</h3>
-                        <p>Short project description goes here...</p>
+                        <p>Another PHP powered responsive website for another Space Magazine</p>
                       </div>
                     </div></a>
                   <div data-images="{{asset('front/img/portfolio/portfolio-02.webp')}},{{asset('front/img/portfolio/portfolio-02.webp')}},{{asset('front/img/portfolio/portfolio-02.webp')}}" class="sr-only reference-description">
